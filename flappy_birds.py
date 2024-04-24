@@ -3,6 +3,7 @@ import neat
 import time
 import random
 import os
+import numpy
 pygame.font.init()
 
 GEN = 0
